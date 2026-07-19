@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard
 
 ## Dashboard Preview
-[Dashboard](Superstore Sales Dashboard.png)
+![Dashboard](./Superstore%20Sales%20Dashboard.png)
 
 ## Project Overview
 
