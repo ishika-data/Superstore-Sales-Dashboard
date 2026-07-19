@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard
 
 ## Dashboard Preview
-[Dashboard](https://github.com/ishika-data/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.png?raw=true)
+[Dashboard](Superstore Sales Dashboard.png)
 
 ## Project Overview
 
